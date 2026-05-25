@@ -1,5 +1,7 @@
 # Creations of Vanshika
 
+Repository: `ArtsofVanshika`
+
 A simple static website for collecting Vanshika's artwork over time.
 
 ## Add New Artwork
