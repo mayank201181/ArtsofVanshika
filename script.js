@@ -16,6 +16,12 @@ const artworks = [
     date: "May 2026",
     image: "assets/artwork/brown-character.jpg",
     alt: "A brown rounded character with black hair-like strokes"
+  },
+  {
+    title: "Red Eye Drawing",
+    date: "May 2026",
+    image: "assets/artwork/red-eye-drawing.jpg",
+    alt: "A red shaded eye drawing with long black lashes"
   }
 ];
 
