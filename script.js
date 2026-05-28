@@ -20,7 +20,7 @@ const artworks = [
   {
     title: "Red Eye Drawing",
     date: "May 2026",
-    image: "assets/artwork/red-eye-drawing.jpg?v=20260528-2",
+    image: "assets/artwork/red-eye-drawing.jpg?v=20260528-3",
     alt: "A red shaded eye drawing with long black lashes"
   }
 ];
